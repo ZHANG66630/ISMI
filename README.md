@@ -15,7 +15,7 @@ entity). These entities can be reached from genes in one hop, whereas the other 
   - modle/: Code for model definition.
   - utils.py: Code for metric calculations and some data preparation.
   - ISMI.py: Code for the functions used in training and evaluation.
-  - main.py: Train or evaluate our DFHD Model.
+  - main.py: Train or evaluate our IMSI Model.
 
 
 ## STEP1:Package Dependency
